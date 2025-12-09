@@ -36,15 +36,10 @@ This is the latest version, 5.0, and it is not compatible with previous versions
 
 Test Account: vben/123456
 
-<div align="center">
-  <img alt="VbenAdmin Logo" width="100%" src="https://anncwb.github.io/anncwb/images/preview1.png">
-  <img alt="VbenAdmin Logo" width="100%" src="https://anncwb.github.io/anncwb/images/preview2.png">
-  <img alt="VbenAdmin Logo" width="100%" src="https://anncwb.github.io/anncwb/images/preview3.png">
-</div>
 
 ### Use Gitpod
 
-Open the project in Gitpod (free online dev environment for GitHub) and start coding immediately.
+
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/vbenjs/vue-vben-admin)
 
