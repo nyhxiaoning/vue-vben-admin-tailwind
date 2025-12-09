@@ -36,10 +36,7 @@ This is the latest version, 5.0, and it is not compatible with previous versions
 
 Test Account: vben/123456
 
-
 ### Use Gitpod
-
-
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/vbenjs/vue-vben-admin)
 
